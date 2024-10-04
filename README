@@ -4,4 +4,4 @@ The full text of the changes is contained in the Scribe page https://scribe.pf2.
 
 The module will generate a compendium within your world. All you need to do is assign the "Alchemist (HPAlC)" class to a character and the new structure will adjust features automatically.
 The compendium also includes a list of adjusted feats you may want to select during level up. These feats are marked with an asterisk (*) and do not appear in default searches.
-To enable them, the GM must adjust the Sources tab to include the module compendium.
+To enable them, the GM must enter the Compendium Browser and adjust the Settings tab to include the module compendium under Packs.
