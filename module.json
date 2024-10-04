@@ -6,7 +6,7 @@
     "minimum": "12",
     "verified": "12"
   },
-  "description": "A series of class features written to smooth out the gameplay loop of the Alchemist class, focuseD on action economy and internal consistency, with adjustments for individual class paths and lessening of tax feats.",
+  "description": "A series of class features written to smooth out the gameplay loop of the remastered Alchemist class, focused on action economy and internal consistency, with adjustments for individual class paths and lessening of tax feats.",
   "esmodules": [
     "scripts/alchemik.js"
   ],
