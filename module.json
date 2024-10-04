@@ -1,0 +1,34 @@
+{
+  "id": "healthier-patterns-for-the-alchemist-class",
+  "title": "Healthier Patterns for the Alchemist Class",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A series of class features written to smooth out the gameplay loop of the Alchemist class, focuseD on action economy and internal consistency, with adjustments for individual class paths and lessening of tax feats.",
+  "esmodules": [
+    "scripts/alchemik.js"
+  ],
+  "authors": [
+    {
+      "name": "Ediwir",
+      "discord": "Ediwir",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Ediwir/Healthier-Patterns-for-the-Alchemist-Class",
+  "packs": [
+    {
+      "name": "healthier-patterns-for-the-alchemist-class",
+      "label": "Healthier Patterns for the Alchemist Class",
+      "path": "packs/healthier-patterns-for-the-alchemist-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
