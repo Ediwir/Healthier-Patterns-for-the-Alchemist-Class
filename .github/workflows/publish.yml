@@ -36,7 +36,7 @@ jobs:
         env:
           version: ${{ steps.get-version.outputs.version-without-v }}
           manifest: https://github.com/${{ github.repository }}/releases/latest/download/module.json
-          download: https://github.com/${{ github.repository }}/releases/download/${{ github.event.release.tag_name }}/module.zi
+          download: https://github.com/${{ github.repository }}/releases/download/${{ github.event.release.tag_name }}/module.zip
 
       # Create a folder containing all the module stuff and zip it for the release
       - name: Create Zip
