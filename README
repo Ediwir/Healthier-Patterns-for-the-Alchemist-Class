@@ -1,6 +1,7 @@
 This is a series of class features written to smooth out the gameplay loop of the Alchemist class, sometimes considered unwieldly and tricky to play. It focuses on action economy and internal consistency, with adjustments for individual class paths and lessening of tax feats. It is recommended for fans of the class who wish to be more involved in their alchemy and GMs who wish to encourage quick thinking.
   
 The full text of the changes is contained in the Scribe page https://scribe.pf2.tools/v/3jJvZplc
+Manual installation can be done using the link https://github.com/Ediwir/Healthier-Patterns-for-the-Alchemist-Class/releases/latest/download/module.json
 
 The module will generate a compendium within your world. All you need to do is assign the "Alchemist (HPAlC)" class to a character and the new structure will adjust features automatically.
 The compendium also includes a list of adjusted feats you may want to select during level up. These feats are marked with an asterisk (*) and do not appear in default searches.
